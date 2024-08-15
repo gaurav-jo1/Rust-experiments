@@ -1,0 +1,22 @@
+# Ignore build artifacts
+target
+
+# Ignore editor and IDE configuration
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Windows files
+thumbs.db
+ehthumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*~
+
+# Cargo.lock (only if this is a library, not a binary application)
+# Cargo.lock
